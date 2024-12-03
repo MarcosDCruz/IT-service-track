@@ -1,2 +1,2 @@
-# IT-service-track
-Class project that uses SQLite and Python to create an application that tracks and stores a made-up company's services and equipment placed at different customer locations. This project let me gain experience with SQLite3, relational databases, and datetime objects. 
+# IT-service-tracker
+This project was the first database application I made. I used Python to implement the main functionalities, like adding customers and services or calculating customer bills. Utilizing the SQLite3 module in Python, I was able to embed SQL queries into the program so that a database is automatically locally created and can be manipulated through the program. 
